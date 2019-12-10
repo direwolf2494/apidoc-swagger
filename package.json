@@ -1,6 +1,6 @@
 {
   "name": "@direwolf2494/apidoc-swagger",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Convert api doc json to swagger json",
   "author": "Bahman Fakhr Sabahi",
   "license": "MIT",
